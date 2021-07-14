@@ -1,0 +1,46 @@
+Application is running with Unicode string encoding.
+pglSetStatus::   Pgl Session Initialize (INFO MESSAGE)
+Valid file wpplibs.cmp with extension cmp was not found in any of CURRENT_DIR,PROJ_LANG_TEXT_DIR,PROJ_TEXT_DIR,CUSTOM_LOCALE_FONT_DIR,PRO_LANG_TEXT_DIR,PRO_TEXT_DIR,MACHINE_LANG_TEXT_DIR,MACHINE_TEXT_DIR,PRO_FONT_DIR
+Valid file wpplibs.cmp with extension cmp was not found in any of CURRENT_DIR,PROJ_LANG_TEXT_DIR,PROJ_TEXT_DIR,CUSTOM_LOCALE_FONT_DIR,PRO_LANG_TEXT_DIR,PRO_TEXT_DIR,MACHINE_LANG_TEXT_DIR,MACHINE_TEXT_DIR,PRO_FONT_DIR
+uit_get_visual_style_low:  Style is PTC Creo 4 (INFO MESSAGE)
+GalleryBaseWdg::GalleryBaseWdg:  Activate command of 'ProCmdDwgTblFromGallery' should be type uiCmdTypeNone (INFO MESSAGE)
+GalleryBaseWdg::GalleryBaseWdg:  Activate command of 'ProCmdCEFormatsGallery' should be type uiCmdTypeNone (INFO MESSAGE)
+GalleryBaseWdg::GalleryBaseWdg:  Activate command of 'ProCmdCEFltFormatsGallery' should be type uiCmdTypeNone (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'construction_mode_large' is not valid ('32x32') in short resource 'procmdeditgeomconstruct.res' (INFO MESSAGE)
+ProCmdSelBufferAttrSet():  Can't to find the command: ProCmdFaceted (INFO MESSAGE)
+ProCmdSelBufferAttrSet():  Selection Buffer Attribute loaded 56 commands (INFO MESSAGE)
+GalleryBaseWdg::GalleryBaseWdg:  Activate command of 'ProCmdMankSelGalPostr' should be type uiCmdTypeNone (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'man_postures_apply.bif' is not valid ('32x32') in short resource 'procmdmankapplgalpostr.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'options_large' is not valid ('32x32') in short resource 'procmdpmachkannotdepend.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'options_large' is not valid ('32x32') in short resource 'procmdpmachksldpnldimdpend.res' (INFO MESSAGE)
+UitGroupItem::initVertCells:  The maximum group height has been increased to 78 (INFO MESSAGE)
+ugc_check_version_dbtype:  file 67 != expected 7 (INFO MESSAGE)
+ULC::LoadLow:  The customization file is being read from C:\Users\sparx\AppData\Roaming\PTC\ProENGINEER\Wildfire\.wf\.Settings\creo_parametric_customization.ui (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image '3D_web_print_large' is not valid ('32x32') in short resource 'procmd3dprintorder.res' (INFO MESSAGE)
+creo_ZBFetcher::OnZbrowserServiceAvailable:  Signal tc_tag: ZBROWSER_AVAILABLE_TAG (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'start_session_large.bif' is not valid ('32x32') in short resource 'procmdstartexperiment.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'session_warning_events32x16' is not valid ('32x16') in short resource 'procmdinfonmgrlightdlg.res' (INFO MESSAGE)
+pglSetStatus::   PglWindowEndNoGraphics: Not in nographics mode. (INFO MESSAGE)
+
+ run mode = 2
+cadds5_link_app_path_name():  NuTCRACKER is not installed (INFO MESSAGE)
+check_exec_file_accessible_():  C:\Program Files\PTC\Creo 7.0.1.0\Common Files\\x86e_win64\obj\SWToPro.exe accessible (INFO MESSAGE)
+check_exec_file_accessible_():  C:\Program Files\PTC\Creo 7.0.1.0\Common Files\\x86e_win64\obj\SeodxToPro.exe accessible (INFO MESSAGE)
+PFSDBArrToFilter:  shouldn't do both (INFO MESSAGE)
+PFSTMakeTypeString:  no zip found (INFO MESSAGE)
+uit_get_visual_style_low:  Style is PTC Creo 4 (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'all_generative_studies_results_on_web_large' is not valid ('32x32') in short resource 'procmdgdexplorecloud.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  Can't find a resource ProCmdApplMenuDbgInfo. (INFO MESSAGE)
+AdbPage::buildSizeStateTable:  Can't build Size State Table for page 'home_File' (INFO MESSAGE)
+ResizeControlWdg::resizeContainerHorz:  Can't resize the control bar properly (INFO MESSAGE)
+pro_locate_colormap ()
+located color definition C:\Program Files\PTC\Creo 7.0.1.0\Common Files\graphic-library\appearances\appearance.dmt
+pro_locate_colormap ()
+located color definition C:\Program Files\PTC\Creo 7.0.1.0\Common Files\graphic-library\appearances\global.dmt
+pro_locate_colormap ()
+located Default color definition C:\Program Files\PTC\Creo 7.0.1.0\Common Files\graphic-library\appearances\default.dmt
+creoapp_get_root_info:  no active workspace (INFO MESSAGE)
+creoapp_get_root_info:  no workspace for 0 (INFO MESSAGE)
+creoapp_get_root_info:  no roots? (INFO MESSAGE)
+ResizeControlWdg::resizeContainerHorz:  Can't resize the control bar properly (INFO MESSAGE)
+pro_notification_remove:  failed to find func to remove (INFO MESSAGE)
